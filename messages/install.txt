@@ -1,0 +1,5 @@
+Thanks for installing Jasmine Promise Matchers!
+Before using them, Make sure you installed the matchers using:
+
+"bower install jasmine-promise-matchers --save-dev"
+or "npm install jasmine-promise-matchers --save-dev"
