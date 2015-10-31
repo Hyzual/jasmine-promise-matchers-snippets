@@ -14,6 +14,7 @@ To use the expectations, please first install them with the following snippet in
 
 ### Expectations
 
+- `expect(promise).toBePromise();` - tbp<kbd>Tab</kbd>
 - `expect(promise).toBeResolved();` - tbrs<kbd>Tab</kbd>
 - `expect(promise).toBeResolvedWith('result');` - tbrsw<kbd>Tab</kbd>
 - `expect(promise).toBeRejected();` - tbrj<kbd>Tab</kbd>
